@@ -3,7 +3,6 @@
 ## Something about me?
 - [X] 🔭 I’m currently working on https://masterquiz.github.io
 - [X] 📫 How to reach me: www.masterquiz@gmail.com
-- [X] ⚡ Fun fact: ...
 
 <hr>
 <div align="center">
