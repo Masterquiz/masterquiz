@@ -1,8 +1,7 @@
 # Hi there 👋
 
 ## Something about me?
-- [X] 🔭 I’m currently working on https://masterquiz.github.io
-- [X] 📫 How to reach me: www.masterquiz@gmail.com
+📫 How to reach me: www.masterquiz@gmail.com
 
 <hr>
 <div align="center">
