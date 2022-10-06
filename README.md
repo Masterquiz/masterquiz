@@ -5,9 +5,9 @@
 
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterquiz&layout=compact&langs_count=10&theme=dracula&custom_title=Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterquiz&layout=compact&langs_count=10&theme=dracula&custom_title=Top Languages" />
   <hr align="center" width="50%">
-  <img src="https://github-profile-trophy.vercel.app/?username=masterquiz&theme=dracula&column=5&title=Joined2020,Commits,Issues,PullRequest,Repositories&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Masterquiz&theme=dracula&column=5&title=Joined2020,Commits,Issues,PullRequest,Repositories&margin-w=15" />
 </div>
 <hr>
 
