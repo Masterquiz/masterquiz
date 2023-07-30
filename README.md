@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there, I'm using GitHub!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterquiz&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" />
